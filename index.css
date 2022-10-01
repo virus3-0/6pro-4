@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(240, 59, 59);
+}
+h2{
+    color: yellow;
+    text-shadow: 2px 2px brown;
+    font-family:'Franklin Gothic Narrow', 'Arial Narrow', 'sans-serif narrow';
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10%;
+}
+#grad1{
+    height:80px;
+    width: 98%;
+    font-family: sans-serif;
+    font-size: 155%;
+    margin-top:0%;
+    margin-bottom: 10%;
+    background-image: linear-gradient(rgb(249, 246, 246),rgb(233, 233, 108),rgb(149, 149, 254));
+}
+#grad2{
+    height: 80px;
+    width: 98%;
+    font-family: sans-serif;
+    font-size: 155%;
+    margin-top:0%;
+    background-image: radial-gradient(rgb(226, 78, 78),rgb(63, 132, 29),yellow);
+}
